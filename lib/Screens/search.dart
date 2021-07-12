@@ -17,7 +17,7 @@ class _SearchState extends State<Search> {
                       children: [
                         TextInputField(
                           icon: FontAwesomeIcons.search,
-                          hint: 'Search',
+                          hint: 'Search Now',
                           inputType: TextInputType.name,
                           inputAction: TextInputAction.next,
                         ),
